@@ -6,3 +6,5 @@ two types of model
 
 ![alt text](image-9.png)
 ![alt text](image-10.png)
+
+okso 
