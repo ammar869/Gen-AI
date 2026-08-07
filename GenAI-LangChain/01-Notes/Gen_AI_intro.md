@@ -34,3 +34,4 @@ it can be used as a user![](image.png)
 ![Builder prespective](image-1.png)
 ![User Prespective](image-2.png)
 
+All the files are del
