@@ -17,3 +17,10 @@ print(response.content)
 #1st 
 #import 
 #all lib install
+#indexing : loading 
+            # splitting
+            # embedding
+            # vector storage 
+#Retriver 
+# Augmentations
+# GenerationS
