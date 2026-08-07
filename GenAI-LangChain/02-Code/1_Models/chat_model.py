@@ -13,3 +13,7 @@ response = llm.invoke("Who created Python?")
 
 print(response.content)
 # this is outdated and will be removed in future versions , we have to use the chatmodels
+
+#1st 
+#import 
+#all lib install
